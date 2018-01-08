@@ -29,3 +29,9 @@ Virtual Desktop Infrastructure (VDI) at UNL
 .... and launch your application!
 
 ![vmware-stata14](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-stata14.jpg)
+
+## IT Status Page
+
+
+
+> IT Status is an online dashboard and notification tool that communicates ITS service outages, maintenance and current status updates to a general campus audience
