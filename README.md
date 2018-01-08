@@ -20,4 +20,4 @@ Virtual Desktop Infrastructure (VDI) at UNL
 * Password: `gobigred!`
 * Domain: `UNL-AD`
 
-![vmware-server-login](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-add-server.jpg)
+![vmware-server-login](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-server-login.jpg)
