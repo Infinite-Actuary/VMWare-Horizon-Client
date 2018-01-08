@@ -22,6 +22,10 @@ Virtual Desktop Infrastructure (VDI) at UNL
 
 ![vmware-server-login](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-server-login.jpg)
 
-4. Launch your application
+4. Connect with the client
 
 ![vmware-client-open](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-client-open.jpg)
+
+.... and launch your application!
+
+![vmware-stata14](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-stata14.jpg)
