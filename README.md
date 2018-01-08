@@ -37,5 +37,6 @@ Virtual Desktop Infrastructure (VDI) at UNL
 [![status-icon](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/status-page-icon.png)](https://its.unl.edu/services/itstatus)
 
 ```diff
-+ IT Status is an online dashboard and notification tool that communicates ITS service outages, maintenance and current status updates to a general campus audience.
++ IT Status is an online dashboard and notification tool that communicates ITS service outages,
++ maintenance and current status updates to a general campus audience.
 ```
