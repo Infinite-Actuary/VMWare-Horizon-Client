@@ -30,7 +30,7 @@ Virtual Desktop Infrastructure (VDI) at UNL
 
 ![vmware-stata14](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-stata14.jpg)
 
-# It's not working! - Check the IT Status Page
+# Client not working? - Check the IT Status Page
 
 ### https://status.unl.edu/ > Cloud & Enterprise services > Desktop Virtualization
 
