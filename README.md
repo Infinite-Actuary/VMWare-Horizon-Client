@@ -7,7 +7,7 @@ Virtual Desktop Infrastructure (VDI) at UNL
 
 > Virtual Desktop Infrastructure, or VDI, refers to the process of running a user desktop inside a virtual machine that lives on a server in the datacenter. It’s a powerful form of desktop virtualization because it enables fully personalized desktops for each user with all the security and simplicity of centralized management.
 
-## [VDI Access Instructions](https://its.unl.edu/services/desktop-virtualization/vdi-access-instructions)
+## [VDI Access Instructions](https://its.unl.edu/services/desktop-virtualization/vdi-access-instructions) (Official)
 
 1. Download & Install the [VMware Horizon Client](https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_horizon_clients/4_0)
 
