@@ -1,7 +1,7 @@
 # VM Ware Horizon Client
 Virtual Desktop Infrastructure (VDI) at UNL
 
-![vmware-desktop-client](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-horizon-client.jpg)
+[![vmware-desktop-client](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-horizon-client.jpg)](https://unl.app.box.com/s/jzt44xawxdnu1cbz4wfs8xs739rfjk5m)
 
 ## What is VDI?
 
