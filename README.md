@@ -30,7 +30,8 @@ Virtual Desktop Infrastructure (VDI) at UNL
 
 ![vmware-stata14](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-stata14.jpg)
 
-## IT Status Page
+
+# IT Status Page
 
 ![status-icon](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/status-page-icon.png)
 
