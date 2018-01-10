@@ -26,7 +26,7 @@ Virtual Desktop Infrastructure (VDI) at UNL
 
 ![vmware-client-open](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-client-open.jpg)
 
-*Note:* *if your application isn't here, submit a [software request](http://cba.unl.edu/it-services/forms/software-request/) to IT*
+**Note:** *if your application isn't here, submit a [software request](http://cba.unl.edu/it-services/forms/software-request/) to IT*
 
 .... and launch your application!
 
