@@ -1,7 +1,7 @@
 # VM Ware Horizon Client
 Virtual Desktop Infrastructure (VDI) at UNL
 
-[![vmware-desktop-client](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-horizon-client.jpg)](https://unl.app.box.com/s/jzt44xawxdnu1cbz4wfs8xs739rfjk5m)
+[![vmware-desktop-client](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-horizon-client.jpg "Watch a short video!")](https://unl.app.box.com/s/jzt44xawxdnu1cbz4wfs8xs739rfjk5m)
 
 ## What is VDI?
 
@@ -34,7 +34,7 @@ Virtual Desktop Infrastructure (VDI) at UNL
 
 ### https://status.unl.edu/ > Cloud & Enterprise services > Desktop Virtualization
 
-[![status-icon](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/status-page-icon.png)](https://its.unl.edu/services/itstatus)
+[![status-icon](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/status-page-icon.png "View IT Status")](https://its.unl.edu/services/itstatus)
 
 ```diff
 + IT Status is an online dashboard and notification tool that communicates ITS service outages,
