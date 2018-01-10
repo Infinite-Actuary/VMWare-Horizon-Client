@@ -26,11 +26,11 @@ Virtual Desktop Infrastructure (VDI) at UNL
 
 ![vmware-client-open](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-client-open.jpg)
 
+*If your application isn't here, submit a [software request](http://cba.unl.edu/it-services/forms/software-request/) to IT*
+
 .... and launch your application!
 
 ![vmware-stata14](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-stata14.jpg)
-
-If your application isn't on the desktop, submit an [IT request](http://cba.unl.edu/it-services/forms/software-request/) for the desired software
 
 # Client not working? - Check the IT Status Page
 
