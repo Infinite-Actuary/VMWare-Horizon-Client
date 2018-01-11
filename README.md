@@ -10,6 +10,9 @@ Virtual Desktop Infrastructure (VDI) at UNL
 ## [VDI Access Instructions](https://its.unl.edu/services/desktop-virtualization/vdi-access-instructions) (Official)
 
 1. Download & Install the [VMware Horizon Client](https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_horizon_clients/4_0)
+  * [VMware Horizon Client for Windows for x86-based & 64-bit devices](https://my.vmware.com/web/vmware/details?downloadGroup=CART18FQ4_LIN64_470&productId=578&rPId=20573)
+  * [VMware Horizon Client for macOS](https://my.vmware.com/web/vmware/details?downloadGroup=CART18FQ4_MAC_470&productId=578&rPId=20572)
+  * [VMware Horizon Client for 64-bit Linux](https://my.vmware.com/web/vmware/details?downloadGroup=CART18FQ4_LIN64_470&productId=578&rPId=20573)
 
 2. Add the Connection Server `https://vdi.nebraska.edu`
 
