@@ -28,7 +28,7 @@ Virtual Desktop Infrastructure (VDI) at UNL
 
 **Note:** *if your application isn't here, submit a* [software request](http://cba.unl.edu/it-services/forms/software-request/) *to IT*
 
-5. Launch your application! `We are using StataSE 14`
+5. Launch StataSE 14
 
 ![vmware-stata14](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-stata14.jpg)
 
