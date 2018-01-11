@@ -15,7 +15,7 @@ Virtual Desktop Infrastructure (VDI) at UNL
 
 ![vmware-add-server](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-add-server.jpg)
 
-3. Enter [My.UNL](http://its.unl.edu/lms) credentials:
+3. Enter [My.UNL](http://its.unl.edu/lms) credentials, for example:
 * Username: `hhusker2`
 * Password: `gobigred!`
 * Domain: `UNL-AD`
