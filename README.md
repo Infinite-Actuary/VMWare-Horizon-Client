@@ -31,6 +31,8 @@ Virtual Desktop Infrastructure (VDI) at UNL
 
 ![vmware-stata14](https://github.com/Infinite-Actuary/VMWare-Horizon-Client/blob/master/images/vmware-stata14.jpg)
 
+If you want to run Stata natively, students are able to purchase a 6 month [Stata/IC](https://www.stata.com/order/new/edu/gradplans/student-pricing/) license for $45
+
 # Client not working? - Check the IT Status Page
 
 ### https://status.unl.edu/ > Cloud & Enterprise services > Desktop Virtualization
